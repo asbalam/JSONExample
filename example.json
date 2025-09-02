@@ -1,0 +1,48 @@
+{
+  "sensors": [
+    {
+      "objid": 101,
+      "objid_raw": 101,
+      "grp": "Servers",
+      "grp_raw": "Servers",
+      "device": "DB-Server-1",
+      "device_raw": "DB-Server-1",
+      "host": "192.168.1.10",
+      "host_raw": "192.168.1.10",
+      "sensor": "CPU Load",
+      "sensor_raw": "CPU Load",
+      "status": "Up",
+      "status_raw": 3,
+      "lastvalue": "25 %",
+      "lastvalue_raw": 25.0,
+      "message": "Normal load",
+      "message_raw": "Normal load",
+      "location": "DataCenter A",
+      "location_raw": "DataCenter A",
+      "priority": "3",
+      "priority_raw": 3
+    },
+    {
+      "objid": 102,
+      "objid_raw": 102,
+      "grp": "Servers",
+      "grp_raw": "Servers",
+      "device": "Web-Server-1",
+      "device_raw": "Web-Server-1",
+      "host": "192.168.1.20",
+      "host_raw": "192.168.1.20",
+      "sensor": "Disk Usage",
+      "sensor_raw": "Disk Usage",
+      "status": "Down",
+      "status_raw": 5,
+      "lastvalue": "95 %",
+      "lastvalue_raw": 95.0,
+      "message": "Disk space critically low",
+      "message_raw": "Disk space critically low",
+      "location": "DataCenter B",
+      "location_raw": "DataCenter B",
+      "priority": "5",
+      "priority_raw": 5
+    }
+  ]
+}
