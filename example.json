@@ -2,7 +2,7 @@
   "sensors": [
     {
       "objid": 101,
-      "objid_raw": 101,
+      "objid_raw": 1010,
       "grp": "Servers1",
       "grp_raw": "Servers",
       "device": "DB-Server-1",
@@ -46,6 +46,7 @@
     }
   ]
 }
+
 
 
 
