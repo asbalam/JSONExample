@@ -34,7 +34,7 @@
       "sensor": "Disk Usage",
       "sensor_raw": "Disk Usage",
       "status": "Down",
-      "status_raw": 5,
+      "status_raw": 6,
       "lastvalue": "95 %",
       "lastvalue_raw": 95.0,
       "message": "Disk space critically low",
@@ -46,4 +46,5 @@
     }
   ]
 }
+
 
